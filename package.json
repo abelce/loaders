@@ -1,0 +1,29 @@
+{
+  "name": "loaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelce/loaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelce/loaders/issues"
+  },
+  "homepage": "https://github.com/abelce/loaders#readme",
+  "devDependencies": {
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.20.2"
+  }
+}
